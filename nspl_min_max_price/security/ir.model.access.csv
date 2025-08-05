@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_product_template_min_max,access_product_template_min_max,model_product_template,nspl_min_max_price.group_set_min_max_price,1,1,1,1
+access_sale_order_line_min_max,access_sale_order_line_min_max,model_sale_order_line,,1,1,1,1
